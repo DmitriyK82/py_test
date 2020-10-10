@@ -11,7 +11,5 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    a = {"key":"value"}
-    str = json.dumps(a)
-    print(str)
+    print_hi('jeck')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
